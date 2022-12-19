@@ -1,0 +1,16 @@
+.eCard{
+    width: 200px;
+    max-width: 200px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px 2px rgba(55, 53, 53, 0.4);
+    padding: 20px;
+    margin: 20px;
+    transition: all 0.3s;    
+
+}
+
+.eCard:hover {
+
+    transform: scale(1.1);
+
+}
